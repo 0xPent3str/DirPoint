@@ -19,10 +19,10 @@ You need **Python 3.8** or a newer version installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/dirpoint.git](https://github.com/your-username/dirpoint.git)
+    git clone https://github.com/0xPent3str/DirPoint
+
     cd dirpoint
     ```
-    *Note: Replace `https://github.com/your-username/dirpoint.git` with your repository URL.*
 
 2.  **Install the required Python packages:**
     The script uses `playwright`, which also requires its browsers to be installed.
