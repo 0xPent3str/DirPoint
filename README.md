@@ -2,6 +2,10 @@
 
 Dirpoint is a powerful web reconnaissance tool designed to discover and extract all scannable files and hidden links within a website. Using the `Playwright` library, it simulates a real user's browser, allowing it to bypass some security measures and find dynamically loaded content. The tool is especially useful for penetration testers and security researchers.
 
+## NOTE
+If you do not specify an `--output  ` file name, the links will be saved automatically to a file named `found_links.txt`.
+
+
 ## Features
 
 * **Dynamic Scanning:** Simulates browser actions (e.g., scrolling, DOM attribute inspection) to find links that are loaded asynchronously.
