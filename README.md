@@ -38,10 +38,28 @@ Run the script from the command line with the following arguments:
 ```bash
 python3 dirpoint.py --url <target_url> [options]
 
+```
+```bash
+
 python3 dirpoint.py --url <target_url>  --verbose
+
+```
+
+```bash
 
 python3 dirpoint.py --url <target_url> --filter api 
 
+```
+
+```bash
+
 python3 dirpoint.py --url <target_url> --filter api --verbose 
 
+```
+
+```bash
+
 python3 dirpoint.py --url <target_url> --depth 3 --output my_results.txt
+
+
+```
