@@ -9,7 +9,7 @@ Dirpoint is a powerful web reconnaissance tool designed to discover and extract 
 * **Recursive Scanning:** Recursively scans found files (`.js`, `.css`, `.json`, etc.) up to a specified depth to uncover deeper links.
 * **URL Normalization:** Automatically handles relative and malformed URLs to create absolute paths.
 * **Configurable:** Allows filtering results by keyword, setting recursion depth, and specifying an output file.
-* **Graceful Shutdown:** Safely stops the process and saves all discovered links when a `Ctrl+C` signal is received.
+* **Shutdown:** Safely stops the process and saves all discovered links when a `Ctrl+C` signal is received.
 
 ## Installation
 
