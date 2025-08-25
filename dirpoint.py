@@ -50,7 +50,7 @@ COMMON_TLDS = [
     ".zone", ".ai", ".ru", ".br", ".in", ".ca", ".au", ".pk", ".sg", ".kr", ".se",
     ".nl", ".ch", ".at", ".be", ".dk", ".fi", ".gr", ".ie", ".il", ".nz", ".pt",
     ".sa", ".es", ".th", ".tr", ".ua", ".vn", ".za", ".ph", ".my", ".mx", ".no",
-    ".pl", ".ro", ".by", ".kz", ".az", ".ge", # .ge for Georgia
+    ".pl", ".ro", ".by", ".kz", ".az", ".ge", # .
     # More specific or new TLDs can be added as needed
 ]
 # Create a regex pattern to find any of these TLDs within a URL
